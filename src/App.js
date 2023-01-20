@@ -5,6 +5,7 @@ import MySkills from "./scenes/MySkills";
 import Projects from "./scenes/Projects";
 import Testimonials from "./scenes/Testimonials";
 import Contact from "./scenes/Contact";
+import Footer from "./scenes/Footer";
 import { useState, useEffect } from "react";
 import LineGradient from "./components/LineGradient";
 import useMediaQuery from "./hooks/useMediaQuery";
@@ -54,6 +55,7 @@ function App() {
     <div className="w-5/6 mx-auto md:h-full">
       <Contact />
     </div>
+    <Footer />
   </div>;
 }
 
