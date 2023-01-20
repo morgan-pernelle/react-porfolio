@@ -1,6 +1,7 @@
 # React Portfolio
 
 This project was built using ReactJS, TailwindCSS, Framer-Motion & React-Hook-Form.
+You can see the app running [here](https://react-porfolio-nu.vercel.app/)
 
 In the project directory, you can run:
 
